@@ -11,13 +11,13 @@ I'm a passionate software engineer on a journey to explore the world of programm
 Here are some of the projects I've worked on using the C programming language:
 
 1. **Simple Calculator**
-   - 
+   - Simple_calculator/Calc.c
    - Description: Briefly describe the project, its purpose, and what you learned from it.
      
 
    ![Project Screenshot](project-screenshot.png)
 
-2. **Another Project Name**
+1. **Another Project Name**
    - [Repository](link-to-repo)
    - Description: Provide a short description of the project, its goals, and any challenges you encountered.
    - Demo: [Live Demo or Video Demo (if applicable)](demo-link)
