@@ -19,7 +19,7 @@ I'm actively working on other projects while exploring other programming languag
 
 ## Get in Touch
 
-Feel free to connect with me and explore my projects on GitHub. You can also reach out to me via (kalanzipeter7@gmail.com) or find me on (www.likedin.com/in/kalanzi-peter)
+Feel free to connect with me and explore my projects on GitHub. You can also reach out to me via (kalanzipeter7@gmail.com) or find me on (www.linkedin.com/in/kalanzi-peter)
 
 ## Contribution and Collaboration
 
